@@ -1,6 +1,6 @@
 # ⌨️ GhostSpeed
 
-> Minimalist typing speed test — WPM, accuracy, best record. No install needed.
+> Minimalist typing speed test
 
 ![HTML](https://img.shields.io/badge/HTML-CSS-JS-orange?logo=html5) ![License](https://img.shields.io/badge/License-MIT-green)
 
@@ -39,16 +39,6 @@ Atau cukup **double-click** file `index.html` di file manager.
 4. Tekan **ESC** untuk reset kapan saja
 
 Rekor terbaik tersimpan otomatis di browser (localStorage).
-
----
-
-## Fitur
-
-- ⏱️ Mode 15 / 30 / 60 detik
-- 🌐 Bahasa Indonesia & English
-- 📊 WPM + akurasi real-time
-- 🏆 Rekor terbaik tersimpan per mode
-- 🎨 Dark UI, no distraction
 
 ---
 
